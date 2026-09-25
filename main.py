@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 
 # PASTE YOUR KEY HERE INSIDE THE QUOTES
-API_KEY = "PASTE_YOUR_GEMINI_KEY_HERE"
+API_KEY = "AQ.Ab8RN6IjpGT0B52YhB3l1OLbUmIst95Swu9NWcq8OLexyR4LnQ"
 
 st.set_page_config(page_title="Naija Study AI", page_icon="📚")
 st.title("STUDY SMARTER")
